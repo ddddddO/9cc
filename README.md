@@ -1,2 +1,2 @@
 # 9cc
-低レイヤーとC言語を知るため
+https://www.sigbus.info/compilerbook
