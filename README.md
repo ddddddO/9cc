@@ -34,10 +34,10 @@ https://www.sigbus.info/compilerbook
 <li><a href="https://www.sigbus.info/compilerbook#単純な生成規則">単純な生成規則</a></li>
 <li><a href="https://www.sigbus.info/compilerbook#生成規則による演算子の優先順位の表現">生成規則による演算子の優先順位の表現</a></li>
 <li><a href="https://www.sigbus.info/compilerbook#再帰を含む生成規則">再帰を含む生成規則</a></li>
-<li><a href="https://www.sigbus.info/compilerbook#再帰下降構文解析">再帰下降構文解析</a></li> <- いまここ
+<li><a href="https://www.sigbus.info/compilerbook#再帰下降構文解析">再帰下降構文解析</a></li>
 </ul></li>
 <li><a href="https://www.sigbus.info/compilerbook#スタックマシン">スタックマシン</a>
-<ul>
+<ul> <- いまここ
 <li><a href="https://www.sigbus.info/compilerbook#スタックマシンの概念">スタックマシンの概念</a></li>
 <li><a href="https://www.sigbus.info/compilerbook#スタックマシンへのコンパイル">スタックマシンへのコンパイル</a></li>
 <li><a href="https://www.sigbus.info/compilerbook#x86-64におけるスタックマシンの実現方法">x86-64におけるスタックマシンの実現方法</a></li>
